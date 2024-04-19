@@ -1,4 +1,4 @@
-# Radiology Chest X-rays
+# Radiology Chest X-Ray
 
 [Data source](https://nihcc.app.box.com/v/ChestXray-NIHCC)
 
