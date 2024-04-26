@@ -15,6 +15,8 @@
 
 ### Extraction process
 
-1. `batch_download_zips.sh`
-1. `unzip.sh`
-1. `delete_zips.sh`
+1. `./batch_download_zips.sh`
+1. `./unzip.sh`
+1. `./delete_zips.sh`
+1. Manually download **Data_Entry_2017_v2020.csv**
+1. Download additional files from the directory manually as desired.
